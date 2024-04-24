@@ -1,0 +1,136 @@
+
+.highcharts-title{
+  font-family: "poppins", sans-serif!important;
+  font-size: 14px!important;
+  font-weight: 600!important;
+}
+
+.highcharts-credits{
+  display: none;
+}
+.select-container-box{
+  background: #fff;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100% !important;
+  padding: 2%;
+  
+  gap: 2px;
+}
+
+
+.box-1-com{
+padding-left: 8%;
+padding-right: 8%;
+font-size: 11px;
+}
+
+
+.select-bar-filed{
+  font-size: 12px !important;
+
+}
+
+.select-container-box select{
+  font-size: 0.65rem!important;
+}
+
+
+.incsize{
+  min-height: 34px!important;
+  border: 1px solid #323;
+  font-size: 10px!important;
+}
+
+/* .form-select-sm {
+
+  font-size: .675rem!important;
+ 
+} */
+
+.bd-highlight{
+  display: flex;
+}
+.pd-4{
+padding: 4%;
+}
+
+.content-view-jobs{
+  background: #fff;
+  display: flex;
+  padding: 4%;
+  align-items: center;
+  gap: 2px;
+}
+
+.p-4{
+font-size: 12px;
+}
+
+.content-view-jobs h6{
+margin-top: 0!important;
+}
+
+.color-1{
+  color: blueviolet;
+  font-weight:800;
+}
+.color-2{
+  color: rgb(24, 11, 170);
+  font-weight:800;
+}
+
+
+
+
+.upload-csv-table table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.upload-csv-table tr th {
+  font-size: 12px;   
+  padding: 20px 5px;
+  text-align: left;
+  background-color: #fff;
+  color: #939597;
+  font-weight: 300;
+}
+
+.upload-csv-table input {
+  background-color: transparent;
+  border: none;
+  width: 100%;
+  padding: 10px 5px;
+  font-size: 12px !important;
+  color: #404d61;
+}
+
+/* .upload-csv-table input:hover {
+  background-color: #fffaf3;
+} */
+
+.upload-csv-table input:focus {
+  outline: 1px solid #ccc;
+  border: 1px solid #ccc;
+} 
+.upload-csv-table .table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+  background-color: #ecf1f6;
+}
+
+
+.css-1fdsijx-ValueContainer {
+
+  padding: 2px 4px !important;
+ 
+}
+
+@media (max-width:1400px) {
+ 
+.box-1-com{
+  padding-left: 8%;
+  padding-right: 8%;
+  font-size: 8px!important;
+  }
+  
+}
